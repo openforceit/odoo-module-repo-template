@@ -1,1 +1,12 @@
+# Generic
 *       @warp10 @OpenCode
+
+# Javascript
+*.js    @ddzopenforce
+
+# CSS
+*.css @ddzopenforce
+
+# Odoo Frontend Controllers
+/controllers/ @ddzopenforce
+
